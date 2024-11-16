@@ -1,6 +1,8 @@
 Bu proje, bir sahaf için kitaplarla ilgili bilgilerin yönetimini sağlayan bir uygulamadır. Entity Framework Core kullanılarak geliştirilen bu uygulama, kitap bilgilerini veritabanında tutar ve kullanıcıların veri üzerinde CRUD işlemleri yapmasına olanak tanır. Yalnızca yetkili çalışanlar tarafından erişilebilecek şekilde güvenlik önlemleri alınmıştır.
 
 Proje Özellikleri
+
+
 Bu projede gerçekleştirilen özellikler:
 
 Kitap Bilgileri:
